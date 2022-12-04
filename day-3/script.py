@@ -1,4 +1,3 @@
-
 with open("./input.txt", encoding='utf-8') as f:
     input_text_arr = f.read().split("\n")
 
